@@ -1,0 +1,6 @@
+this project is admin panel for social video stream site.
+This project is based on Codeigniter, Bootstrap.
+1. admin panel
+-- upload video, 
+-- manage user
+-- manage category, video
